@@ -1,2 +1,3 @@
-Hello,World!
-こんにちは、皆さん。
+Hello,World!(英語)
+こんにちは、世界！(日本語)
+Hallo Welt!(ドイツ語)
